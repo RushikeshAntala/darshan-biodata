@@ -83,10 +83,10 @@
                                 <div class="numbertext">4 / 4</div>
                                 <img src="image1/darshan12.jpeg" style="width:100%">
                             </div>
-                            <div class="mySlides">
+                            {{-- <div class="mySlides">
                                 <div class="numbertext">4 / 4</div>
                                 <img src="image1/myphoto5.jpg" style="width:100%">
-                            </div>
+                            </div> --}}
 
                             <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                             <a class="next" onclick="plusSlides(1)">&#10095;</a>
