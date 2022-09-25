@@ -81,7 +81,7 @@
                             </div>
                             <div class="mySlides">
                                 <div class="numbertext">4 / 4</div>
-                                <img src="image1/123.jpeg" style="width:100%">
+                                <img src="image1/darshan12.jpeg" style="width:100%">
                             </div>
                             <div class="mySlides">
                                 <div class="numbertext">4 / 4</div>
@@ -97,7 +97,7 @@
 
 
                             <div class="column">
-                                <img class="demo cursor" src="image/biodata-images/123.jpeg" style="width:100%" onclick="currentSlide(1)" alt="Darshan Diyora">
+                                <img class="demo cursor" src="image1/darshan12.jpeg" style="width:100%" onclick="currentSlide(1)" alt="Darshan Diyora">
                             </div>
                             <div class="column">
                                 <img class="demo cursor" src="image1/bdd7ed5d-5842-42f7-8997-23f106cae56d - Copy.jpg" style="width:100%" onclick="currentSlide(2)" alt="Darshan Diyora">
