@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Brijesh Goyani - Biodata</title>
+    <title>Darshan Diyora - Biodata</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -48,8 +48,8 @@
 
                 <div class="bio_profile">
                     <img class="Profile" src="image/biodata-images/profileImage.jpeg" alt="">
-                    <img class="profile-card__avatar" id="myImg" src="image/biodata-images/profileImage.jpg" alt="">
-
+                    {{-- <img class="profile-card__avatar" id="myImg" src="image/biodata-images/profileImage.jpg" alt=""> --}}
+                    <img src="image1/profileImage.jpg" alt="" class="profile-card__avatar" id="myImg">
                     <img class="ProfileRing" src="image/biodata-images/profileRing.png" alt="">
                     {{-- <div id="myModal" class="imgModal">
                         <span class="close">&times;</span>
@@ -62,57 +62,57 @@
 
                             <div class="mySlides">
                                 <div class="numbertext">1 / 4</div>
-                                <img src="image/biodata-images/profileImage.jpg" style="width:100%">
+                                <img src="image1/profileImage.jpg" style="width:100%">
                             </div>
 
                             <div class="mySlides">
                                 <div class="numbertext">2 / 4</div>
-                                <img src="image/biodata-images/myphoto1.jpg" style="width:100%">
+                                <img src="image1/062195b7-72ba-4fec-a7c0-7a21afea41bd - Copy.jpg" style="width:100%">
                             </div>
 
                             <div class="mySlides">
                                 <div class="numbertext">3 / 4</div>
-                                <img src="image/biodata-images/myphoto2.jpg" style="width:100%">
+                                <img src="image1/bdd7ed5d-5842-42f7-8997-23f106cae56d - Copy.jpg" style="width:100%">
                             </div>
 
                             <div class="mySlides">
                                 <div class="numbertext">4 / 4</div>
-                                <img src="image/biodata-images/myphoto3.jpg" style="width:100%">
+                                <img src="image1/profileImage.jpg" style="width:100%">
                             </div>
                             <div class="mySlides">
                                 <div class="numbertext">4 / 4</div>
-                                <img src="image/biodata-images/myphoto4.jpg" style="width:100%">
+                                <img src="image1/123.jpeg" style="width:100%">
                             </div>
                             <div class="mySlides">
                                 <div class="numbertext">4 / 4</div>
-                                <img src="image/biodata-images/myphoto5.jpg" style="width:100%">
+                                <img src="image1/myphoto5.jpg" style="width:100%">
                             </div>
 
                             <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                             <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
                             <div class="caption-container">
-                                <p id="caption"></p>
+                                <p id="caption"> Darshan Diyora</p>
                             </div>
 
 
                             <div class="column">
-                                <img class="demo cursor" src="image/biodata-images/profileImage.jpg" style="width:100%" onclick="currentSlide(1)" alt="Brijesh Goyani">
+                                <img class="demo cursor" src="image/biodata-images/123.jpeg" style="width:100%" onclick="currentSlide(1)" alt="Darshan Diyora">
                             </div>
                             <div class="column">
-                                <img class="demo cursor" src="image/biodata-images/myphoto1.jpg" style="width:100%" onclick="currentSlide(2)" alt="Brijesh Goyani">
+                                <img class="demo cursor" src="image1/bdd7ed5d-5842-42f7-8997-23f106cae56d - Copy.jpg" style="width:100%" onclick="currentSlide(2)" alt="Darshan Diyora">
                             </div>
                             <div class="column">
-                                <img class="demo cursor" src="image/biodata-images/myphoto2.jpg" style="width:100%" onclick="currentSlide(3)" alt="Brijesh Goyani">
+                                <img class="demo cursor" src="image1/062195b7-72ba-4fec-a7c0-7a21afea41bd - Copy.jpg" style="width:100%" onclick="currentSlide(3)" alt="Darshan Diyora">
                             </div>
                             <div class="column">
-                                <img class="demo cursor" src="image/biodata-images/myphoto3.jpg" style="width:100%" onclick="currentSlide(4)" alt="Brijesh Goyani">
+                                {{-- <img class="demo cursor" src="image1/bdd7ed5d-5842-42f7-8997-23f106cae56d - Copy.jpg" style="width:100%" onclick="currentSlide(4)" alt="Brijesh Goyani"> --}}
                             </div>
                             <div class="column">
-                                <img class="demo cursor" src="image/biodata-images/myphoto4.jpg" style="width:100%" onclick="currentSlide(5)" alt="Brijesh Goyani">
+                                <img class="demo cursor" src="image1/WhatsApp Image 2022-09-24 at 11.38.27 PM.jpeg" style="width:100%" onclick="currentSlide(5)" alt="Darshan Diyora">
                             </div>
                             <div class="column">
-                                <img class="demo cursor" src="image/biodata-images/myphoto5.jpg" style="width:100%" onclick="currentSlide(6)" alt="Brijesh Goyani">
+                                {{-- <img class="demo cursor" src="image/biodata-images/myphoto5.jpg" style="width:100%" onclick="currentSlide(6)" alt="Brijesh Goyani"> --}}
                             </div>
                         </div>
                     </div>
@@ -131,18 +131,16 @@
                             <div class="personal_contact_detail"> Address</div>
 
                             <a style="word-wrap: break-word" class="information_detail">
-                                <a href="https://goo.gl/maps/oXBYwGmtipy3VcXW6" target="_blank">504, Krishna Avenue,
-                                    Near
-                                    Yamuna chowk, Mota Varachha, Surat - 394101</a>
+                                <a href="https://www.google.com/maps/dir//21.2249611,72.8098218/@21.2252056,72.7747842,13z/data=!3m1!4b1!4m2!4m1!3e1?hl=en" target="_blank">202 A Rudraksh Complex Singhanpur Road, Kataragam, Surat</a>
                                 </p>
-                                <div class="personal_contact_detail"> Qualification</div>
+                                {{-- <div class="personal_contact_detail"> Qualification</div> --}}
 
-                                <p style="word-wrap: break-word" class="information_detail">
+                                {{-- <p style="word-wrap: break-word" class="information_detail">
                                     <a href="https://goo.gl/maps/idzKXugZUAY5cBMm9" target="_blank">B.Tech in Computer
                                         Engineering (Gandhinagar)</a>
                                 </p>
                                 <p style="word-wrap: break-word" class="information_detail"><a href="https://webitoinfotech.com/" target="_blank">Founder & M.D at Webito
-                                        Infotech Pvt Ltd</a></p>
+                                        Infotech Pvt Ltd</a></p> --}}
 
                                 <!-- <h6 style="font-size: 12px;">Native PLace</h6>
                             <p class="information_detail">Bodaki</p>
@@ -151,13 +149,13 @@
 
                                 <div class="personal_contact_detail"> Native Place</div>
                                 <p class="information_detail mb-1">
-                                    <span class="info_title">Vilage : </span><a href="https://goo.gl/maps/jiNgYxePAh7WrvyP6" target="_blank">Bodaki</a>
+                                    <span class="info_title">Vilage : </span><a href="https://goo.gl/maps/jiNgYxePAh7WrvyP6" target="_blank">Kalatalav</a>
                                 </p>
 
-                                <p class="information_detail mb-1"><span class="info_title">Taluka : </span><a href="https://goo.gl/maps/YAkBQ54kLsLy33FJ8" target="_blank">Gadhda</a></p>
+                                <p class="information_detail mb-1"><span class="info_title">Taluka : </span><a href="https://goo.gl/maps/YAkBQ54kLsLy33FJ8" target="_blank">Vallabhipur</a></p>
 
 
-                                <p class="information_detail"><span class="info_title">District : </span><a href="https://goo.gl/maps/JtAkuPNLUgZeTNf79" target="_blank">Botad</a></p>
+                                <p class="information_detail"><span class="info_title">District : </span><a href="https://goo.gl/maps/JtAkuPNLUgZeTNf79" target="_blank">Bhavngar</a></p>
 
 
                         </div>
@@ -166,7 +164,7 @@
                             <div class="personal_contact_detail">Hobbies</div>
                             <!-- <p class="information_detail"><span class="detail_info">Hobbies</span> -->
                             <!-- <li> -->
-                            <p class="information_detail"> Playing Chess &nbsp;| &nbsp; Content Writing &nbsp; | &nbsp;
+                            <p class="information_detail"> Playing Chess &nbsp;| &nbsp;
                                 Travelling <br> Listening Instrumental Music</p>
                         </div>
                         <!-- <ul>Listening Instrumental Music</ul>
@@ -182,46 +180,43 @@
                 <div class="bio_profile_main_name">
 
 
-                    <h3 class="bio_profile_name" style="word-wrap: break-word; ">Brijesh Goyani</h3>
+                    <h3 class="bio_profile_name" style="word-wrap: break-word; ">Darshan Diyora</h3>
                     <div class="personal_detail">Personal Details</div>
                     <div class="personal_bio_detail" style="line-height: 0.7;">
-                        <p class="information_detail"><span class="detail_info">Name :</span> Brijesh Maheshbhai
-                            Goyani
-                        </p>
-                        <p class="information_detail"><span class="detail_info">D.O.B :</span> 21 Dec 1999</p>
+                        <p class="information_detail"><span class="detail_info">Name : </span>Darshan Manojbhai Diyora</p>
+                        <p class="information_detail"><span class="detail_info">D.O.B :</span> 17 Dec 1999</p>
                         <p class="information_detail"><span class="detail_info">Religion :</span> Hindu</p>
                         <p class="information_detail"><span class="detail_info">Cast :</span> Leuva Patel</p>
-                        <p class="information_detail"><span class="detail_info">Height :</span> 5'9</p>
-                        <p class="information_detail"><span class="detail_info">Weight :</span> 64 kg</p>
+                        <p class="information_detail"><span class="detail_info">Height :</span> 5'8</p>
+                        <p class="information_detail"><span class="detail_info">Weight :</span> 54 kg</p>
 
                     </div>
                     <div class="personal_detail">Family Details</div>
 
                     <div class="family_detail" style="  line-height: 0.7;">
-                        <p class="information_detail"><span class="detail_info">Father :</span> Maheshbhai Shamjibhai
-                            Goyani
+                        <p class="information_detail"><span class="detail_info">Father :</span> Manojbhai Odhabhai Diyora</p>
+                        <p class="information_detail"><span class="detail_info">Mother :</span> Ashaben Manojbhai Diyora
                         </p>
-                        <p class="information_detail"><span class="detail_info">Mother :</span> Sangeetaben
-                            Maheshbhai Goyani
+                        <p class="information_detail"><span class="detail_info">Sister :</span> juli Manojbhai Diyora
                         </p>
                     </div>
 
 
                     <div class="personal_detail">Meternal Details</div>
                     <div class="meteral_detail">
-                        <p class="information_detail meteral_name mb-1">Rameshbhai Ranchhodbhai Moradiya </p>
-                        <p class="information_detail mb-1"><span class="detail_info">Village :</span> Gadhda</p>
+                        <p class="information_detail meteral_name mb-1">Raghavbhai Manjibhai Navadiya </p>
+                        <p class="information_detail mb-1"><span class="detail_info">Village :</span> Samadhiyala 2</p>
                         <div class="bio_district" style="display: flex;justify-content: space-between;">
-                            <p class="information_detail"><span class="detail_info">Taluka :</span> Gadhda</p>
+                            <p class="information_detail"><span class="detail_info">Taluka :</span>Botad</p>
                             <p class="information_detail" style="    margin-right: 1rem;
                             "><span class="detail_info">District :</span> Botad</p>
                         </div>
                     </div>
                     <div class="meteral_detail">
-                        <p class="information_detail meteral_name mb-1">Ashokbhai Ramjibhai Moradiya </p>
-                        <p class="information_detail mb-1"><span class="detail_info">Village :</span> Jinjavadar</p>
+                        <p class="information_detail meteral_name mb-1">Manjibhai Parsottambhai Navadiy </p>
+                        <p class="information_detail mb-1"><span class="detail_info">Village :</span> Samadhiyala 2</p>
                         <div class="bio_district" style="display: flex;justify-content: space-between;">
-                            <p class="information_detail"><span class="detail_info">Taluka :</span> Gadhda</p>
+                            <p class="information_detail"><span class="detail_info">Taluka :</span> Botad</p>
                             <p class="information_detail" style="    margin-right: 1rem;
                             "><span class="detail_info">District :</span> Botad</p>
                         </div>
@@ -230,51 +225,54 @@
                         <a class="more_detail_button" href="#popup1">View More</a>
 
                     </div>
-
+<style>
+    .name_mota_papa{
+        font-size: 20px;
+    }
+</style>
                     <div id="popup1" class="overlay">
                         <div class="popup">
                             <a class="close" href="#">&times;</a>
                             <div class="model-scanner content" style="padding: 5%;">
+                                <h4 style="text-align: center;">Big Daddy & mom</h4>
                                 <div class="meteral_detail">
-                                    <p class="information_detail meteral_name mb-1">Rameshbhai Ranchhodbhai Moradiya </p>
-                                    <p class="information_detail mb-1"><span class="detail_info">Village :</span> Gadhda</p>
-                                    <div class="bio_district" style="display: flex;justify-content: space-between;">
-                                        <p class="information_detail"><span class="detail_info">Taluka :</span> Gadhda</p>
-                                        <p class="information_detail" style="    margin-right: 8rem;"><span class="detail_info">District :</span> Botad</p>
-                                    </div>
+                                    <p class="information_detail meteral_name mb-1"><h6>Mota Papa Name:</h6><span class="name_mota_papa">Khodabhai Odhabhai Diyora</span></p>
+                                    <p class="information_detail meteral_name mb-1"><h6>Mota mom Name:</h6><span class="name_mota_papa">Kasturben Khodabhai Diyora</span></p>
+                                   
                                 </div>
+                                
                                 <div class="meteral_detail">
-                                    <p class="information_detail meteral_name mb-1">Kishorbhai Ranchhodbhai Moradiya </p>
-                                    <p class="information_detail mb-1"><span class="detail_info">Village :</span> Gadhda</p>
-                                    <div class="bio_district" style="display: flex;justify-content: space-between;">
-                                        <p class="information_detail"><span class="detail_info">Taluka :</span> Gadhda</p>
-                                        <p class="information_detail" style="    margin-right: 8rem;"><span class="detail_info">District :</span> Botad</p>
-                                    </div>
+                                    <p class="information_detail meteral_name mb-1"> <h6>Mota Papa Name:</h6><span class="name_mota_papa">
+                                        Rameshabhai Odhabhai Diyora</span></p>
+                                        <p class="information_detail meteral_name mb-1"> <h6>Mota mom Name:</h6>
+                                            <span class="name_mota_papa">Saradhaben Rameshabhai Diyora</span></p>
                                 </div>
-                                <div class="meteral_detail">
+                                
+                                {{-- <div class="meteral_detail">
                                     <p class="information_detail meteral_name mb-1">Nitinbhai Ranchhodbhai Moradiya </p>
                                     <p class="information_detail mb-1"><span class="detail_info">Village :</span> Gadhda</p>
                                     <div class="bio_district" style="display: flex;justify-content: space-between;">
                                         <p class="information_detail"><span class="detail_info">Taluka :</span> Gadhda</p>
                                         <p class="information_detail" style="    margin-right: 8rem;"><span class="detail_info">District :</span> Botad</p>
                                     </div>
-                                </div>
-                                <div class="meteral_detail">
+                                </div> --}}
+                                {{-- <br> --}}
+                                {{-- <div class="meteral_detail">
                                     <p class="information_detail meteral_name mb-1">Ashokbhai Ramjibhai Moradiya </p>
                                     <p class="information_detail mb-1"><span class="detail_info">Village :</span> Jinjavadar</p>
                                     <div class="bio_district" style="display: flex;justify-content: space-between;">
                                         <p class="information_detail"><span class="detail_info">Taluka :</span> Gadhda</p>
                                         <p class="information_detail" style="    margin-right: 8rem;"><span class="detail_info">District :</span> Botad</p>
                                     </div>
-                                </div>
-                                <div class="meteral_detail">
+                                </div> --}}
+                                {{-- <div class="meteral_detail">
                                     <p class="information_detail meteral_name mb-1">Hiteshbhai Ramjibhai Moradiya </p>
                                     <p class="information_detail mb-1"><span class="detail_info">Village :</span> Jinjavadar</p>
                                     <div class="bio_district" style="display: flex;justify-content: space-between;">
                                         <p class="information_detail"><span class="detail_info">Taluka :</span> Gadhda</p>
                                         <p class="information_detail" style="    margin-right: 8rem;"><span class="detail_info">District :</span> Botad</p>
                                     </div>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>
